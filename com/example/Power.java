@@ -63,6 +63,13 @@ public final class Power {
     }
   }
 
+  /**
+   * Calculates power with base and power.
+   *
+   * @param base
+   * @param pow
+   * @return Returns integer of power.
+   */
   public static Integer recPow(final Integer base, final Integer pow) {
     if (pow <= 0) {
       return 1;

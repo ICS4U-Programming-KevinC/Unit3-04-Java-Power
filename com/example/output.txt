@@ -1,0 +1,6 @@
+8
+1024
+128
+Please input a number!
+100
+25
